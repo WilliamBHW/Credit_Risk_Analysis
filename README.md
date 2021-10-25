@@ -1,5 +1,5 @@
 # Supervised_Machine_Learning
-## Ovewview
+## Overview
 This projetc is aimed to predict one's credist risk result in either low or high risk status. Methodology-wise, the data is being examined through imbalanced-learn and scikit-learn. By creating training and testing sets, modelling data with various of samplings and draw comslusions from them. On the other hand, compare data via two decision classifiers (balanced-forest-classifier and easy-ensemble-classifier) to minimize bias.
 
 ## Results
